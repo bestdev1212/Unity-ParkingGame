@@ -1,4 +1,4 @@
-# Unity--CarParking
+# Unity-ParkingGame
  Mobile Game Prototype
 
 # Controls
@@ -17,8 +17,3 @@ at a different entrance for different target. Since the time resets to the begin
 the player can see previously driven cars.
 - If currently driven car collides with obstacles or previously driven cars time resets again
 and the player has to drive the last car with the same entrance and exit points.
-
-# Gallery
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/37352722/85719927-95d30280-b6f8-11ea-8be9-9c27e29541e7.gif)
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/37352722/85720532-3295a000-b6f9-11ea-93ac-7227a5be51c1.gif)
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/37352722/85720477-23165700-b6f9-11ea-843d-6b43f2ff3189.gif)
